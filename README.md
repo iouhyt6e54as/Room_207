@@ -58,7 +58,7 @@ ROOM207/
 
 ## ER Diagram
 The ER Diagram above illustrates the main entities of the ROOM207 system and their relationships. Each table, primary key, and foreign key is clearly represented.
-![ER Diagram](ER_Diagram/ER_Diagram.drawio.png)
+![ER Diagram](ER_Digram/Untitled Diagram.drawio (1).png)
 
 ---
 
